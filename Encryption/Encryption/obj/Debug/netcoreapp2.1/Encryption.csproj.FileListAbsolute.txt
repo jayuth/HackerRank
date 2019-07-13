@@ -1,0 +1,11 @@
+/Users/teeraponguthairat/Desktop/C#/Hackerrank/Encryption/Encryption/bin/Debug/netcoreapp2.1/Encryption.deps.json
+/Users/teeraponguthairat/Desktop/C#/Hackerrank/Encryption/Encryption/bin/Debug/netcoreapp2.1/Encryption.runtimeconfig.json
+/Users/teeraponguthairat/Desktop/C#/Hackerrank/Encryption/Encryption/bin/Debug/netcoreapp2.1/Encryption.runtimeconfig.dev.json
+/Users/teeraponguthairat/Desktop/C#/Hackerrank/Encryption/Encryption/bin/Debug/netcoreapp2.1/Encryption.dll
+/Users/teeraponguthairat/Desktop/C#/Hackerrank/Encryption/Encryption/bin/Debug/netcoreapp2.1/Encryption.pdb
+/Users/teeraponguthairat/Desktop/C#/Hackerrank/Encryption/Encryption/obj/Debug/netcoreapp2.1/Encryption.csprojAssemblyReference.cache
+/Users/teeraponguthairat/Desktop/C#/Hackerrank/Encryption/Encryption/obj/Debug/netcoreapp2.1/Encryption.csproj.CoreCompileInputs.cache
+/Users/teeraponguthairat/Desktop/C#/Hackerrank/Encryption/Encryption/obj/Debug/netcoreapp2.1/Encryption.AssemblyInfoInputs.cache
+/Users/teeraponguthairat/Desktop/C#/Hackerrank/Encryption/Encryption/obj/Debug/netcoreapp2.1/Encryption.AssemblyInfo.cs
+/Users/teeraponguthairat/Desktop/C#/Hackerrank/Encryption/Encryption/obj/Debug/netcoreapp2.1/Encryption.dll
+/Users/teeraponguthairat/Desktop/C#/Hackerrank/Encryption/Encryption/obj/Debug/netcoreapp2.1/Encryption.pdb

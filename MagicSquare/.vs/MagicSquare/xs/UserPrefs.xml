@@ -1,0 +1,21 @@
+﻿<Properties StartupConfiguration="{BC84CA79-A366-470E-ACD0-393CDFDAF0F5}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="MagicSquare/Program.cs">
+    <Files>
+      <File FileName="MagicSquare/Program.cs" Line="47" Column="42" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="MagicSquare" expanded="True" selected="True" />
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.MagicSquare PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

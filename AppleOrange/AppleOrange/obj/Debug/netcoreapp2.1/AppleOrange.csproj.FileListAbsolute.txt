@@ -1,0 +1,11 @@
+/Users/teeraponguthairat/Desktop/C#/Hackerrank/AppleOrange/AppleOrange/bin/Debug/netcoreapp2.1/AppleOrange.deps.json
+/Users/teeraponguthairat/Desktop/C#/Hackerrank/AppleOrange/AppleOrange/bin/Debug/netcoreapp2.1/AppleOrange.runtimeconfig.json
+/Users/teeraponguthairat/Desktop/C#/Hackerrank/AppleOrange/AppleOrange/bin/Debug/netcoreapp2.1/AppleOrange.runtimeconfig.dev.json
+/Users/teeraponguthairat/Desktop/C#/Hackerrank/AppleOrange/AppleOrange/bin/Debug/netcoreapp2.1/AppleOrange.dll
+/Users/teeraponguthairat/Desktop/C#/Hackerrank/AppleOrange/AppleOrange/bin/Debug/netcoreapp2.1/AppleOrange.pdb
+/Users/teeraponguthairat/Desktop/C#/Hackerrank/AppleOrange/AppleOrange/obj/Debug/netcoreapp2.1/AppleOrange.csprojAssemblyReference.cache
+/Users/teeraponguthairat/Desktop/C#/Hackerrank/AppleOrange/AppleOrange/obj/Debug/netcoreapp2.1/AppleOrange.csproj.CoreCompileInputs.cache
+/Users/teeraponguthairat/Desktop/C#/Hackerrank/AppleOrange/AppleOrange/obj/Debug/netcoreapp2.1/AppleOrange.AssemblyInfoInputs.cache
+/Users/teeraponguthairat/Desktop/C#/Hackerrank/AppleOrange/AppleOrange/obj/Debug/netcoreapp2.1/AppleOrange.AssemblyInfo.cs
+/Users/teeraponguthairat/Desktop/C#/Hackerrank/AppleOrange/AppleOrange/obj/Debug/netcoreapp2.1/AppleOrange.dll
+/Users/teeraponguthairat/Desktop/C#/Hackerrank/AppleOrange/AppleOrange/obj/Debug/netcoreapp2.1/AppleOrange.pdb
