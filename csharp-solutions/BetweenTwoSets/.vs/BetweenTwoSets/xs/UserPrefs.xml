@@ -1,0 +1,21 @@
+﻿<Properties StartupConfiguration="{B2DEAAB3-001F-4860-8506-FF772FF3EDED}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="BetweenTwoSets/Program.cs">
+    <Files>
+      <File FileName="BetweenTwoSets/Program.cs" Line="11" Column="44" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="BetweenTwoSets" expanded="True" selected="True" />
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.BetweenTwoSets PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

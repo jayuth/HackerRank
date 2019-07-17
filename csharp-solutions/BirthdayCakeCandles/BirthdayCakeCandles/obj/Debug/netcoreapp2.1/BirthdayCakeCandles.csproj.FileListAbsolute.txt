@@ -1,0 +1,11 @@
+/Users/teeraponguthairat/Desktop/C#/Hackerrank/BirthdayCakeCandles/BirthdayCakeCandles/bin/Debug/netcoreapp2.1/BirthdayCakeCandles.deps.json
+/Users/teeraponguthairat/Desktop/C#/Hackerrank/BirthdayCakeCandles/BirthdayCakeCandles/bin/Debug/netcoreapp2.1/BirthdayCakeCandles.runtimeconfig.json
+/Users/teeraponguthairat/Desktop/C#/Hackerrank/BirthdayCakeCandles/BirthdayCakeCandles/bin/Debug/netcoreapp2.1/BirthdayCakeCandles.runtimeconfig.dev.json
+/Users/teeraponguthairat/Desktop/C#/Hackerrank/BirthdayCakeCandles/BirthdayCakeCandles/bin/Debug/netcoreapp2.1/BirthdayCakeCandles.dll
+/Users/teeraponguthairat/Desktop/C#/Hackerrank/BirthdayCakeCandles/BirthdayCakeCandles/bin/Debug/netcoreapp2.1/BirthdayCakeCandles.pdb
+/Users/teeraponguthairat/Desktop/C#/Hackerrank/BirthdayCakeCandles/BirthdayCakeCandles/obj/Debug/netcoreapp2.1/BirthdayCakeCandles.csprojAssemblyReference.cache
+/Users/teeraponguthairat/Desktop/C#/Hackerrank/BirthdayCakeCandles/BirthdayCakeCandles/obj/Debug/netcoreapp2.1/BirthdayCakeCandles.csproj.CoreCompileInputs.cache
+/Users/teeraponguthairat/Desktop/C#/Hackerrank/BirthdayCakeCandles/BirthdayCakeCandles/obj/Debug/netcoreapp2.1/BirthdayCakeCandles.AssemblyInfoInputs.cache
+/Users/teeraponguthairat/Desktop/C#/Hackerrank/BirthdayCakeCandles/BirthdayCakeCandles/obj/Debug/netcoreapp2.1/BirthdayCakeCandles.AssemblyInfo.cs
+/Users/teeraponguthairat/Desktop/C#/Hackerrank/BirthdayCakeCandles/BirthdayCakeCandles/obj/Debug/netcoreapp2.1/BirthdayCakeCandles.dll
+/Users/teeraponguthairat/Desktop/C#/Hackerrank/BirthdayCakeCandles/BirthdayCakeCandles/obj/Debug/netcoreapp2.1/BirthdayCakeCandles.pdb
