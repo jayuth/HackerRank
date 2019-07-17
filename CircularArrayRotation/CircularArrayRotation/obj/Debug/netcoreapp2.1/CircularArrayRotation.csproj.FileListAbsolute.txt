@@ -1,0 +1,11 @@
+/Users/teeraponguthairat/Desktop/CSharp-HackerRank/CircularArrayRotation/CircularArrayRotation/obj/Debug/netcoreapp2.1/CircularArrayRotation.csprojAssemblyReference.cache
+/Users/teeraponguthairat/Desktop/CSharp-HackerRank/CircularArrayRotation/CircularArrayRotation/obj/Debug/netcoreapp2.1/CircularArrayRotation.csproj.CoreCompileInputs.cache
+/Users/teeraponguthairat/Desktop/CSharp-HackerRank/CircularArrayRotation/CircularArrayRotation/obj/Debug/netcoreapp2.1/CircularArrayRotation.AssemblyInfoInputs.cache
+/Users/teeraponguthairat/Desktop/CSharp-HackerRank/CircularArrayRotation/CircularArrayRotation/obj/Debug/netcoreapp2.1/CircularArrayRotation.AssemblyInfo.cs
+/Users/teeraponguthairat/Desktop/CSharp-HackerRank/CircularArrayRotation/CircularArrayRotation/bin/Debug/netcoreapp2.1/CircularArrayRotation.deps.json
+/Users/teeraponguthairat/Desktop/CSharp-HackerRank/CircularArrayRotation/CircularArrayRotation/bin/Debug/netcoreapp2.1/CircularArrayRotation.runtimeconfig.json
+/Users/teeraponguthairat/Desktop/CSharp-HackerRank/CircularArrayRotation/CircularArrayRotation/bin/Debug/netcoreapp2.1/CircularArrayRotation.runtimeconfig.dev.json
+/Users/teeraponguthairat/Desktop/CSharp-HackerRank/CircularArrayRotation/CircularArrayRotation/bin/Debug/netcoreapp2.1/CircularArrayRotation.dll
+/Users/teeraponguthairat/Desktop/CSharp-HackerRank/CircularArrayRotation/CircularArrayRotation/bin/Debug/netcoreapp2.1/CircularArrayRotation.pdb
+/Users/teeraponguthairat/Desktop/CSharp-HackerRank/CircularArrayRotation/CircularArrayRotation/obj/Debug/netcoreapp2.1/CircularArrayRotation.dll
+/Users/teeraponguthairat/Desktop/CSharp-HackerRank/CircularArrayRotation/CircularArrayRotation/obj/Debug/netcoreapp2.1/CircularArrayRotation.pdb
