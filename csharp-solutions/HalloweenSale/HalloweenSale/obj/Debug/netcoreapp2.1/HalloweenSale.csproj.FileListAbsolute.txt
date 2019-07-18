@@ -1,0 +1,11 @@
+/Users/teeraponguthairat/Desktop/CSharp-HackerRank/csharp-solutions/HalloweenSale/HalloweenSale/bin/Debug/netcoreapp2.1/HalloweenSale.deps.json
+/Users/teeraponguthairat/Desktop/CSharp-HackerRank/csharp-solutions/HalloweenSale/HalloweenSale/bin/Debug/netcoreapp2.1/HalloweenSale.runtimeconfig.json
+/Users/teeraponguthairat/Desktop/CSharp-HackerRank/csharp-solutions/HalloweenSale/HalloweenSale/bin/Debug/netcoreapp2.1/HalloweenSale.runtimeconfig.dev.json
+/Users/teeraponguthairat/Desktop/CSharp-HackerRank/csharp-solutions/HalloweenSale/HalloweenSale/bin/Debug/netcoreapp2.1/HalloweenSale.dll
+/Users/teeraponguthairat/Desktop/CSharp-HackerRank/csharp-solutions/HalloweenSale/HalloweenSale/bin/Debug/netcoreapp2.1/HalloweenSale.pdb
+/Users/teeraponguthairat/Desktop/CSharp-HackerRank/csharp-solutions/HalloweenSale/HalloweenSale/obj/Debug/netcoreapp2.1/HalloweenSale.csprojAssemblyReference.cache
+/Users/teeraponguthairat/Desktop/CSharp-HackerRank/csharp-solutions/HalloweenSale/HalloweenSale/obj/Debug/netcoreapp2.1/HalloweenSale.csproj.CoreCompileInputs.cache
+/Users/teeraponguthairat/Desktop/CSharp-HackerRank/csharp-solutions/HalloweenSale/HalloweenSale/obj/Debug/netcoreapp2.1/HalloweenSale.AssemblyInfoInputs.cache
+/Users/teeraponguthairat/Desktop/CSharp-HackerRank/csharp-solutions/HalloweenSale/HalloweenSale/obj/Debug/netcoreapp2.1/HalloweenSale.AssemblyInfo.cs
+/Users/teeraponguthairat/Desktop/CSharp-HackerRank/csharp-solutions/HalloweenSale/HalloweenSale/obj/Debug/netcoreapp2.1/HalloweenSale.dll
+/Users/teeraponguthairat/Desktop/CSharp-HackerRank/csharp-solutions/HalloweenSale/HalloweenSale/obj/Debug/netcoreapp2.1/HalloweenSale.pdb
